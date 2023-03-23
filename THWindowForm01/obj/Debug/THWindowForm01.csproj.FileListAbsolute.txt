@@ -1,0 +1,21 @@
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\bin\Debug\THWindowForm01.exe.config
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\bin\Debug\THWindowForm01.exe
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\bin\Debug\THWindowForm01.pdb
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.csproj.AssemblyReference.cache
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.Properties.Resources.resources
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.csproj.GenerateResource.cache
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.csproj.CoreCompileInputs.cache
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.exe
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.pdb
+C:\LTDesktop-TH\WindowForm\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.FrmEmployee.resources
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\bin\Debug\THWindowForm01.exe.config
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\bin\Debug\THWindowForm01.exe
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\bin\Debug\THWindowForm01.pdb
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.csproj.AssemblyReference.cache
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.FrmEmployee.resources
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.Properties.Resources.resources
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.csproj.GenerateResource.cache
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.csproj.CoreCompileInputs.cache
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.exe
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.pdb
+D:\Gitbub\Thư mục mới\CodeDesktop-Lop\THWindowForm01\THWindowForm01\obj\Debug\THWindowForm01.FrmLogin.resources
